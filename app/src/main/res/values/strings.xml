@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chat app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contaxts_fragment">contaxts fragment</string>
+    <string name="toast_string">please enter Email Address...</string>
+</resources>
